@@ -26,10 +26,6 @@ Travenco/
 │ └── (project images)
 
 
-## 📸 Preview
-
-![Travenco Preview](./assets/images/hero-banner.jpg)
-
 ## 📜 License
 
 This project is for educational and portfolio purposes.
